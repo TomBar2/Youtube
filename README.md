@@ -1,18 +1,7 @@
-# 89-3210 Course - Youtube Project - Exercise 4
-## CPP server with video recommendation, Project's Wiki
+# Youtube-like Project
 
 This project is a simplified version of YouTube, allowing users to watch videos as a guest or a registered user, 
 so you can upload videos, write comments and see other user's profiles and their videos.
-
-**Please note:**
-1. **main** is the branch for exercise 1
-2. **part_2_main** is the branch for exercise 2
-3. **main_part_3** is the branch for exercise 3
-4. **main_part_4** is the branch for exercise 4
-
-**In the fourth exercise, we were asked to:**
-1. Add a CPP server to the project that gives video recommendations to logged-in users, based on their watch history and users with similar taste
-2. Add a Wiki folder for the project with set up explanations and using demonstrations for the whole project
 
 ### A brief explanation about this exercise's workflow:
 
